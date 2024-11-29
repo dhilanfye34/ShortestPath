@@ -1,0 +1,65 @@
+   0.0000    0.0000    0.00 CT No Such Place Exists
+-166.3703   65.3025    3.16 AK Teller
+-166.3520   65.2752    1.24 AK Teller
+-166.3682   65.2591    0.43 AK Teller
+-164.8001   65.6950   52.74 AK Shishmaref
+-162.7353   66.0793    0.54 AK Deering
+-163.0213   65.9067   14.46 AK Deering
+-165.4099   64.5471    3.00 AK Nome
+-165.3628   64.5426    2.89 AK Nome
+-165.4001   64.5081    0.29 AK Nome
+-163.6785   64.8974   16.97 AK White Mountain
+-181.0187   51.5586  188.56 AK Adak
+-180.5422   51.3708  170.88 AK Adak
+-148.4130   70.2545    8.51 AK Prudhoe Bay
+-155.7112   66.1919   38.85 AK Huslia
+-155.3960   66.0068   32.09 AK Hughes
+-155.4953   64.7400    0.29 AK Ruby
+-155.5018   64.4036   23.07 AK Ruby
+-155.3255   64.3899   24.49 AK Ruby
+-155.5200   64.0194   49.62 AK Ruby
+-156.5142   63.1526   18.39 AK Takotna
+-151.0184   65.0609   12.00 AK Manley Hot Springs
+-150.2201   65.1849   17.03 AK Manley Hot Springs
+-150.2241   65.1695   16.20 AK Manley Hot Springs
+-155.6829   62.8655    6.84 AK McGrath
+-149.4900   65.2536    7.47 AK Minto
+-148.6669   65.4888    3.45 AK Livengood
+-149.3253   65.1327    2.17 AK Minto
+-148.3774   64.9468   13.28 AK Ester
+-148.2917   64.9297   10.51 AK Ester
+-147.6572   65.0233    4.86 AK Fox
+-147.4828   65.0568    8.28 AK Fox
+-147.6343   65.0020    3.32 AK Fox
+-147.4343   65.0399    8.21 AK Fox
+-147.6190   64.9559    0.30 AK Fox
+-147.9610   64.8391    1.26 AK Ester
+-147.8205   64.8511    0.28 AK College
+-147.6293   64.8837    4.25 AK Fairbanks
+-147.0848   65.0612   13.75 AK Two Rivers
+-147.6720   64.8666    2.54 AK Fairbanks
+-149.2013   64.3348    0.75 AK Anderson
+-147.7106   64.8373    0.47 AK Fairbanks
+-147.7181   64.8313    0.53 AK Fairbanks
+-149.1048   64.2772    5.44 AK Anderson
+-145.2261   65.5330   15.18 AK Central
+-150.9859   63.5315   47.43 AK Lake Minchumina
+-144.0630   65.8279    0.59 AK Circle
+-144.8194   65.5715    4.41 AK Central
+-144.6613   65.4910    3.09 AK Central
+-146.0653   65.0530   26.85 AK Pleasant Valley
+-149.1399   64.0049    2.38 AK Healy
+-148.7746   64.0475    6.82 AK Ferry
+-148.9063   63.7326    6.17 AK McKinley Park
+-143.4114   65.2900   40.58 AK Central
+-143.1461   65.3438   43.08 AK Circle
+-168.8470   52.9862    3.14 AK Nikolski
+-168.9899   52.8673    7.43 AK Nikolski
+-158.6296   59.2677    0.77 AK Aleknagik
+-168.3284   53.2855   32.45 AK Nikolski
+-148.9476   63.3901    1.47 AK Cantwell
+-148.8982   63.3868    0.10 AK Cantwell
+-167.9090   53.3873   50.04 AK Nikolski
+-150.8027   62.5301   10.74 AK Petersville
+-158.5180   59.0364    0.79 AK Dillingham
+-158.5456   59.0085    2.95 AK Dillingham
